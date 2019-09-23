@@ -17,6 +17,7 @@ limitations under the License.
 #define TENSORFLOW_CORE_GRAPPLER_COSTS_COST_ESTIMATOR_H_
 
 #include <cmath>
+#include <chrono>
 #include <unordered_map>
 
 #include "tensorflow/core/lib/core/status.h"
